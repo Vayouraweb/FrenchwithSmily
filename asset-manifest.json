@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Frenchwithsmily/static/css/main.8ac3a843.css",
-    "main.js": "/Frenchwithsmily/static/js/main.e24ddd93.js",
-    "static/media/reel.jpeg": "/Frenchwithsmily/static/media/reel.7826ea48af08a739a157.jpeg",
-    "static/media/3.jpeg": "/Frenchwithsmily/static/media/3.9d21d4a3818aafa45539.jpeg",
-    "static/media/2.jpeg": "/Frenchwithsmily/static/media/2.69f1e3fafbd2fc34f3ad.jpeg",
-    "static/media/1.jpeg": "/Frenchwithsmily/static/media/1.a2bc13b4eb0e6b9aab3b.jpeg",
-    "static/media/home.jpeg": "/Frenchwithsmily/static/media/home.8b534e5fb227eeec54e2.jpeg",
-    "static/media/smily.jpg": "/Frenchwithsmily/static/media/smily.ea484c2cb7f2edfe9f80.jpg",
-    "index.html": "/Frenchwithsmily/index.html",
-    "main.8ac3a843.css.map": "/Frenchwithsmily/static/css/main.8ac3a843.css.map",
-    "main.e24ddd93.js.map": "/Frenchwithsmily/static/js/main.e24ddd93.js.map"
+    "main.css": "/FrenchwithSmily/static/css/main.8ac3a843.css",
+    "main.js": "/FrenchwithSmily/static/js/main.f8d4bb2b.js",
+    "static/media/reel.jpeg": "/FrenchwithSmily/static/media/reel.7826ea48af08a739a157.jpeg",
+    "static/media/3.jpeg": "/FrenchwithSmily/static/media/3.9d21d4a3818aafa45539.jpeg",
+    "static/media/2.jpeg": "/FrenchwithSmily/static/media/2.69f1e3fafbd2fc34f3ad.jpeg",
+    "static/media/1.jpeg": "/FrenchwithSmily/static/media/1.a2bc13b4eb0e6b9aab3b.jpeg",
+    "static/media/home.jpeg": "/FrenchwithSmily/static/media/home.8b534e5fb227eeec54e2.jpeg",
+    "static/media/smily.jpg": "/FrenchwithSmily/static/media/smily.ea484c2cb7f2edfe9f80.jpg",
+    "index.html": "/FrenchwithSmily/index.html",
+    "main.8ac3a843.css.map": "/FrenchwithSmily/static/css/main.8ac3a843.css.map",
+    "main.f8d4bb2b.js.map": "/FrenchwithSmily/static/js/main.f8d4bb2b.js.map"
   },
   "entrypoints": [
     "static/css/main.8ac3a843.css",
-    "static/js/main.e24ddd93.js"
+    "static/js/main.f8d4bb2b.js"
   ]
 }
